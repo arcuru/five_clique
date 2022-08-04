@@ -6,7 +6,7 @@ In the video, he preferred to write a slow algorithm that ran for over a month. 
 
 He also mentions that another person, Benjamin Paassen, wrote an optimized version using graph theory that ran in 20 minutes: https://gitlab.com/bpaassen/five_clique
 
-On Twitter today, I see that someone else spent "half-a-day" optimizing the graph theory solution to make it run in under a minute: https://gitlab.com/bpaassen/five_clique
+On Twitter today, I see that someone else spent "half-a-day" optimizing the graph theory solution to make it run in under a minute: https://github.com/phire/five_clique
 
 ## A Better Way
 
