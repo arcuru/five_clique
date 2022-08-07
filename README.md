@@ -11,8 +11,10 @@ On Twitter today, I see that someone else spent "half-a-day" optimizing the grap
 ## A Better Way
 
 Matt is interested in optimizing for programmer time and effort, while the others spent time optimizing for speed.
+While optimizing for speed is always fun (I see they're now down to only a handful of seconds to run their algorithm, still in Python!), Matt unfortunately never tried to see if his complicated optimizations to this problem were even worth it.
 
-None of them realized that the naive solution is actually fast enough.
+What Matt should have done is code up the simplest possible solution first, and then try to optimize it later.
+In attempting to optimize prematurely, he managed to come up with a slower and more complicated algorithm, which took him several minutes of his Youtube video to describe.
 
 **This repo took me <30 minutes to write and runs on my underpowered laptop in 10 minutes.**
 
